@@ -1,0 +1,26 @@
+{
+	"files": [],
+	"include": [],
+	"references": [
+		// Pkgs
+		{
+			"path": "./packages/kit/tsconfig.build.json"
+		},
+		{
+			"path": "./packages/typescript/tsconfig.build.json"
+		},
+		{
+			"path": "./packages/vscode/tsconfig.build.json"
+		},
+		{
+			"path": "./packages/coc.nvim/tsconfig.build.json"
+		},
+		{
+			"path": "./packages/monaco/tsconfig.build.json"
+		},
+		// IDE / tests
+		{
+			"path": "./tsconfig.json"
+		},
+	]
+}
